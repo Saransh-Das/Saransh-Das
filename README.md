@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Django , Rest , Flask and Go**
+- 🌱 I’m currently learning **Django, Rest, Flask, Go and MERN**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
