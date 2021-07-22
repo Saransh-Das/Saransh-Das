@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from India who is developing his way towards becoming a Full Stack Developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saransh-das" alt="saransh-das" /></a> </p>
-<img align="right" height="300" width="400" src="https://user-images.githubusercontent.com/60683582/126072865-78e6b612-4697-46f3-9082-165fc72a8d4a.gif" alt="heat-map" >
+<img align="right" height="300" width="400" src="https://user-images.githubusercontent.com/60683582/126673691-49d90e65-dcd2-487f-adbf-52fc77a25fcc.gif" alt="dev-gif" >
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -38,6 +38,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saransh-das&show_icons=true&locale=en" alt="saransh-das" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saransh-das&" alt="saransh-das" /></p>
+
+
+
 
 
 
